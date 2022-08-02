@@ -10,5 +10,6 @@ namespace Library.BusinessLogic.Interfaces
         IEnumerable<UserDto> Get();
         void Deleted (int id);
         void Update(UserDto user);
+        User Get(string name);
     }
 }
