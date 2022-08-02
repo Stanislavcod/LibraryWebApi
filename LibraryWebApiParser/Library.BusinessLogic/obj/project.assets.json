@@ -651,19 +651,6 @@
         "runtime": {
           "bin/placeholder/Library.Model.dll": {}
         }
-      },
-      "Library.Parser/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Library.Common": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Library.Parser.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Library.Parser.dll": {}
-        }
       }
     }
   },
@@ -1869,18 +1856,12 @@
       "type": "project",
       "path": "../Library.Model/Library.Model.csproj",
       "msbuildProject": "../Library.Model/Library.Model.csproj"
-    },
-    "Library.Parser/1.0.0": {
-      "type": "project",
-      "path": "../Library.Parser/Library.Parser.csproj",
-      "msbuildProject": "../Library.Parser/Library.Parser.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Library.Common >= 1.0.0",
-      "Library.Model >= 1.0.0",
-      "Library.Parser >= 1.0.0"
+      "Library.Model >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1915,9 +1896,6 @@
             },
             "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Library.Model\\Library.Model.csproj": {
               "projectPath": "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Library.Model\\Library.Model.csproj"
-            },
-            "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Library.Parser\\Library.Parser.csproj": {
-              "projectPath": "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Library.Parser\\Library.Parser.csproj"
             }
           }
         }

@@ -9,14 +9,12 @@ namespace LibraryWebApiParser.Controllers
     [ApiController]
     public class AuthController : ControllerBase
     {
-        private readonly IUserService _userService;
         private readonly ITokenService _tokenService;
         private IAuthService _authService;
         private IRegAndLogService _regAndLogService;
 
-        public AuthController(IUserService userService, ITokenService tokenService, IAuthService authService, IRegAndLogService regAndLogService)
+        public AuthController( ITokenService tokenService, IAuthService authService, IRegAndLogService regAndLogService)
         {
-            _userService = userService;
             _tokenService = tokenService;
             _authService = authService;
             _regAndLogService = regAndLogService;
@@ -31,17 +29,13 @@ namespace LibraryWebApiParser.Controllers
         [HttpPost("login")]
         public IActionResult Login(RegisterAndLoginDto loginDto)
         {
-            var user = _userService.Get(loginDto.Name);
-            if (user == null)
+            if (!_authService.IsUserExists(loginDto.Name))
                 return BadRequest("User not found.");
 
-            if (_authService.VerifyPasswordHash(loginDto.Password, user.PasswordHash, user.PasswordSalt))
+            if (!_authService.VerifyPasswordHash(loginDto))
                 return BadRequest("Wrong password.");
 
-            string token = _tokenService.CreateToken(user);
-
-            _userService.Update(user);
-
+            string token = _tokenService.CreateToken(loginDto);
             return Ok(token);
         }
     }

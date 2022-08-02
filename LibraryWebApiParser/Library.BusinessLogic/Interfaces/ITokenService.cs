@@ -6,6 +6,6 @@ namespace Library.BusinessLogic.Interfaces
 {
     public interface ITokenService
     {
-        string CreateToken(int id);
+        string CreateToken(RegisterAndLoginDto loginDto);
     }
 }

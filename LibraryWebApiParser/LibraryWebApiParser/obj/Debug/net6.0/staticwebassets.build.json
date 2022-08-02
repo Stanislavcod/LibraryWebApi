@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vlHoN0dmyFhPMD1RspRttXmDsTehO2sgkcPVis1mvXk=",
+  "Source": "LibraryWebApiParser",
+  "BasePath": "_content/LibraryWebApiParser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,5 @@
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Parser\obj\Debug\net6.0\Library.Parser.csproj.AssemblyReference.cache
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Parser\obj\Debug\net6.0\Library.Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Parser\obj\Debug\net6.0\Library.Parser.AssemblyInfoInputs.cache
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Parser\obj\Debug\net6.0\Library.Parser.AssemblyInfo.cs
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Parser\obj\Debug\net6.0\Library.Parser.csproj.CoreCompileInputs.cache

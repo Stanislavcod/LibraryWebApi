@@ -1,0 +1,14 @@
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Model\bin\Debug\net6.0\Library.Model.deps.json
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Model\bin\Debug\net6.0\Library.Model.runtimeconfig.json
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Model\bin\Debug\net6.0\Library.Model.dll
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Model\bin\Debug\net6.0\Library.Model.pdb
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Model\obj\Debug\net6.0\Library.Model.csproj.AssemblyReference.cache
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Model\obj\Debug\net6.0\Library.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Model\obj\Debug\net6.0\Library.Model.AssemblyInfoInputs.cache
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Model\obj\Debug\net6.0\Library.Model.AssemblyInfo.cs
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Model\obj\Debug\net6.0\Library.Model.csproj.CoreCompileInputs.cache
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Model\obj\Debug\net6.0\Library.Model.dll
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Model\obj\Debug\net6.0\refint\Library.Model.dll
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Model\obj\Debug\net6.0\Library.Model.pdb
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Model\obj\Debug\net6.0\Library.Model.genruntimeconfig.cache
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.Model\obj\Debug\net6.0\ref\Library.Model.dll

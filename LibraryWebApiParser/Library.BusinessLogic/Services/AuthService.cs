@@ -1,6 +1,7 @@
 ﻿using Library.BusinessLogic.Interfaces;
 using Library.Common.ModelsDto;
 using Library.Model.DataBaseContext;
+using Library.Model.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Security.Cryptography;
 using System.Text;
@@ -28,11 +29,9 @@ namespace Library.BusinessLogic.Services
                 var computedHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(loginDto.Password));
                 return computedHash.SequenceEqual(user.PasswordHash);
             }
-            public User Get(string name) =>
-           _db.Users.AsNoTracking().FirstOrDefault(u => u.Name == name)!;
         }
         public User Get(string name) =>
-           _db.Users.AsNoTracking().FirstOrDefault(u => u.Name == name)!;
+           _context.Users.AsNoTracking().FirstOrDefault(u => u.Name == name)!;
         public bool IsUserExists(string name)
         {
             return _context.Users.AsNoTracking().Any(x => x.Name == name.ToLower());
