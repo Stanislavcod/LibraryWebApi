@@ -42,5 +42,7 @@ namespace Library.BusinessLogic.Services
             _mapper.Map<UserDto>(userDto);
             _context.SaveChanges();
         }
+        public User Get(string name) =>
+            _context.Users.FirstOrDefault(u => u.Name == name.ToLower())!;
     }
 }

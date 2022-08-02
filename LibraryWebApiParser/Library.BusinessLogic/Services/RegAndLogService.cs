@@ -20,11 +20,11 @@ namespace Library.BusinessLogic.Services
             _token = token;
             _mapper = mapper;   
         }
-        public void Register(RegisterAndLoginDto register)
+        public bool Register(RegisterAndLoginDto register)
         {
             var user = _mapper.Map<User>(register);
             _context.Users.Add(user);
-            _context.SaveChanges();
+            return _context.SaveChanges()>0 ? true : false;
         }
         public UserDto Login(RegisterAndLoginDto loginDto)
         {
@@ -38,7 +38,7 @@ namespace Library.BusinessLogic.Services
                 if (computedHash[i] != user.PasswordHash[i]) return null!;
 
             var userDto = _mapper.Map<User, UserDto>(user);
-            userDto.Token = _token.CreateToken(user);
+            userDto.Token = _token.CreateToken(user.Id);
             return userDto;
         }
     }

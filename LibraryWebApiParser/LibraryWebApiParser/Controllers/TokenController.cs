@@ -24,7 +24,7 @@ namespace LibraryWebApiParser.Controllers
             {
                 return BadRequest("User is not found");
             }
-            string token = _tokenService.CreateToken(user);
+            string token = _tokenService.CreateToken(id);
             _userService.Update(user);
             return Ok(token);
         }
