@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "P9JY7EedGGkzTsiYlIFHvUqQ1dkzBT9M8ZCwozbiXSTldie79eud0FZYj2ddhnMcocoxVBkD+NcZkiDIO6oXFQ==",
+  "dgSpecHash": "0VKnOnOzRO0Q8jsMhKqMW/uLIv4+7+n4VK9gojkm/X0K6BDvXlAoHlWOAnpGJQVBO0cGOqFR0VAgtcEKi1B6lg==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\LibraryWebApiParser\\LibraryWebApiParser.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stasd\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\stasd\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\stasd\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512",
     "C:\\Users\\stasd\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\stasd\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.7\\microsoft.aspnetcore.authentication.jwtbearer.6.0.7.nupkg.sha512",
     "C:\\Users\\stasd\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

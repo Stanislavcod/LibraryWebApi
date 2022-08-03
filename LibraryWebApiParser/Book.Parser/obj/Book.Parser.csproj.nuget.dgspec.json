@@ -1,9 +1,73 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Library.Parser\\Library.Parser.csproj": {}
+    "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Book.Parser\\Book.Parser.csproj": {}
   },
   "projects": {
+    "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Book.Parser\\Book.Parser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Book.Parser\\Book.Parser.csproj",
+        "projectName": "Book.Parser",
+        "projectPath": "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Book.Parser\\Book.Parser.csproj",
+        "packagesPath": "C:\\Users\\stasd\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Book.Parser\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stasd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Library.Common\\Library.Common.csproj": {
+                "projectPath": "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Library.Common\\Library.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.43, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Library.Common\\Library.Common.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -129,64 +193,6 @@
               "version": "[6.0.7, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Library.Parser\\Library.Parser.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Library.Parser\\Library.Parser.csproj",
-        "projectName": "Library.Parser",
-        "projectPath": "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Library.Parser\\Library.Parser.csproj",
-        "packagesPath": "C:\\Users\\stasd\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Library.Parser\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\stasd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Library.Common\\Library.Common.csproj": {
-                "projectPath": "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Library.Common\\Library.Common.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Library.Parser")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Book.Parser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Library.Parser")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Library.Parser")]
+[assembly: System.Reflection.AssemblyProductAttribute("Book.Parser")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Book.Parser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

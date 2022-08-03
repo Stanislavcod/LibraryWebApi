@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library.BusinessLogic", "Li
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library.Common", "Library.Common\Library.Common.csproj", "{6A7533CF-9562-4277-A3DF-1CA9A0C9BC65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book.Parser", "Book.Parser\Book.Parser.csproj", "{1300FBFA-1C8D-4097-97C7-C8016C0B79D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{6A7533CF-9562-4277-A3DF-1CA9A0C9BC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A7533CF-9562-4277-A3DF-1CA9A0C9BC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A7533CF-9562-4277-A3DF-1CA9A0C9BC65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1300FBFA-1C8D-4097-97C7-C8016C0B79D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1300FBFA-1C8D-4097-97C7-C8016C0B79D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1300FBFA-1C8D-4097-97C7-C8016C0B79D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1300FBFA-1C8D-4097-97C7-C8016C0B79D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +58,7 @@ Global
 		{1FBA89D2-4932-4A2E-A726-4BDC702F41A7} = {5A298994-99AE-4F20-B020-FE41CCADF18C}
 		{256C51ED-8405-44CE-A996-1289FE234346} = {EB1048B1-3A1D-412A-A37C-E43FA92136BE}
 		{6A7533CF-9562-4277-A3DF-1CA9A0C9BC65} = {0EC4AF93-7773-4E56-BD6E-7AE75FE041F0}
+		{1300FBFA-1C8D-4097-97C7-C8016C0B79D1} = {41A36E5F-664B-4369-B386-CB699F98BE26}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {046392C2-8969-472A-889D-5CA3C8ADD902}

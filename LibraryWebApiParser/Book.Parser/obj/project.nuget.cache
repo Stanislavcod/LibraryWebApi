@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "S3tOLx85gCLkj/A4s4XSDX6eQhhVS6aLHEHe9JE8bzFEff7EvC716mmOoPj1uKtXC8Tyh3Ofl+zxlxgHqoXaMw==",
+  "dgSpecHash": "Ww7aykVUMOXw/cpaPNXl+2L0n2qsWZncQlnHBby0BbvK2fhK8u1Q//QPXWc05iZ6+DYS/LL5u2NcNJmHI+kIwQ==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Library.Parser\\Library.Parser.csproj",
+  "projectFilePath": "C:\\GitHub\\LibraryWebApi\\LibraryWebApiParser\\Book.Parser\\Book.Parser.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stasd\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\stasd\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\stasd\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512",
     "C:\\Users\\stasd\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\stasd\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\stasd\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
