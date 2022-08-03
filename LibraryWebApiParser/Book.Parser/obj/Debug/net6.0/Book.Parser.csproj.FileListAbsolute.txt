@@ -1,0 +1,17 @@
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\bin\Debug\net6.0\Book.Parser.deps.json
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\bin\Debug\net6.0\Book.Parser.dll
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\bin\Debug\net6.0\Book.Parser.pdb
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\bin\Debug\net6.0\Library.Common.dll
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\bin\Debug\net6.0\Library.Model.dll
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\bin\Debug\net6.0\Library.Common.pdb
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\bin\Debug\net6.0\Library.Model.pdb
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\obj\Debug\net6.0\Book.Parser.csproj.AssemblyReference.cache
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\obj\Debug\net6.0\Book.Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\obj\Debug\net6.0\Book.Parser.AssemblyInfoInputs.cache
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\obj\Debug\net6.0\Book.Parser.AssemblyInfo.cs
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\obj\Debug\net6.0\Book.Parser.csproj.CoreCompileInputs.cache
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\obj\Debug\net6.0\Book.Parser.csproj.CopyComplete
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\obj\Debug\net6.0\Book.Parser.dll
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\obj\Debug\net6.0\refint\Book.Parser.dll
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\obj\Debug\net6.0\Book.Parser.pdb
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Book.Parser\obj\Debug\net6.0\ref\Book.Parser.dll

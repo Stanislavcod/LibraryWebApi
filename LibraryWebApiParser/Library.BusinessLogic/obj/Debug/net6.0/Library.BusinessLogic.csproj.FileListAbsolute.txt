@@ -1,0 +1,17 @@
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\obj\Debug\net6.0\Library.BusinessLogic.csproj.AssemblyReference.cache
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\obj\Debug\net6.0\Library.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\obj\Debug\net6.0\Library.BusinessLogic.AssemblyInfoInputs.cache
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\obj\Debug\net6.0\Library.BusinessLogic.AssemblyInfo.cs
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\obj\Debug\net6.0\Library.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\bin\Debug\net6.0\Library.BusinessLogic.deps.json
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\bin\Debug\net6.0\Library.BusinessLogic.dll
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\bin\Debug\net6.0\Library.BusinessLogic.pdb
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\bin\Debug\net6.0\Library.Common.dll
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\bin\Debug\net6.0\Library.Model.dll
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\bin\Debug\net6.0\Library.Common.pdb
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\bin\Debug\net6.0\Library.Model.pdb
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\obj\Debug\net6.0\Library.BusinessLogic.csproj.CopyComplete
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\obj\Debug\net6.0\Library.BusinessLogic.dll
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\obj\Debug\net6.0\refint\Library.BusinessLogic.dll
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\obj\Debug\net6.0\Library.BusinessLogic.pdb
+C:\GitHub\LibraryWebApi\LibraryWebApiParser\Library.BusinessLogic\obj\Debug\net6.0\ref\Library.BusinessLogic.dll
